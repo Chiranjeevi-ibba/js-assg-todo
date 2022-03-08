@@ -1,0 +1,11 @@
+.user-input {
+    font-weight: bold;
+    font-size: 20px;
+}
+.li-item {
+    max-width: 350px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
